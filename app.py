@@ -14,6 +14,13 @@ cache_session = requests_cache.CachedSession('.cache', expire_after=-1)
 retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 
+filtered_data = None
+sales_data = None
+
+# Load sales data
+file_path = 'DatasetSalesCoffeeShop.csv'
+sales_data = pd.read_csv(file_path, sep=";")
+
 @app.route('/api/get_weather_data')
 def get_weather_data():
     # Make sure all required weather variables are listed here
@@ -28,6 +35,7 @@ def get_weather_data():
     }
 
     try:
+        global filtered_data
         responses = openmeteo.weather_api(url, params=params)
         response = responses[0]
 
@@ -55,6 +63,42 @@ def get_weather_data():
 
     except Exception as e:
         return jsonify({"error": str(e)})
+    
+
+@app.route('/api/get_sales_data')
+def get_sales_data():
+    try:
+        global sales_data
+        # Return sales data as JSON
+        return jsonify(sales_data.to_dict(orient='records'))
+
+    except Exception as e:
+        return jsonify({"error": str(e)})
+    
+@app.route('/api/get_merged_data')
+def get_merged_data():
+    try:
+        global filtered_data, sales_data
+        if filtered_data is None or sales_data is None:
+            # If not, call the functions to get the data
+            get_weather_data()
+            get_sales_data()
+        
+        filtered_data.rename(columns={'temperature_2m': 'Temperature At 10 AM'}, inplace=True)
+
+        filtered_data['date'] = pd.to_datetime(filtered_data['date'])
+
+        sales_data['Date'] = pd.to_datetime(sales_data['Date'], format='%d/%m/%Y')
+
+        merged_data = pd.merge(filtered_data, sales_data, left_on='date', right_on='Date', how='inner')
+
+        merged_data.drop('Date', axis=1, inplace=True)
+
+        return jsonify(merged_data.to_dict(orient='records'))
+    
+    except Exception as e:
+        return jsonify({"error": str(e)})    
+        
 
 if __name__ == '__main__':
     app.run(debug=True)
