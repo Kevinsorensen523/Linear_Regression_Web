@@ -1,0 +1,960 @@
+Date;Produk;Sales
+11/07/2023;Latte;3
+11/07/2023;Es Kopi Klepon;3
+11/07/2023;Mie Tonjok Goreng;2
+11/07/2023;Kopi Anggurin;2
+11/07/2023;Es Matcha;2
+11/07/2023;Americano;2
+11/07/2023;Nasi Temen Ayam;2
+11/07/2023;Es Chocolate;2
+11/07/2023;Cireng;2
+11/07/2023;Comot Asik;1
+11/07/2023;Air Mineral 330ml;1
+11/07/2023;Kopi Sejuta Umat;1
+11/07/2023;Es Teh Leci;1
+11/07/2023;Es Klepon;1
+11/07/2023;Cappuccino;1
+11/07/2023;Kopi Rakyat;1
+11/07/2023;Nasi Temen Sapi;1
+11/07/2023;Orange Juice;1
+12/07/2023;Kopi Rakyat;3
+12/07/2023;Kopi Hitam;2
+12/07/2023;Pisang Aroma;2
+12/07/2023;Kopi Sejuta Umat;2
+12/07/2023;Latte;1
+12/07/2023;Air Mineral 330ml;1
+12/07/2023;Kopi Pandan;1
+13/07/2023;Kopi Sejuta Umat;5
+13/07/2023;Es Klepon;3
+13/07/2023;Nasi Temen Sapi;2
+13/07/2023;Americano;2
+13/07/2023;Mie Tonjok Kuah;1
+13/07/2023;Es Teh Biasa Aja;1
+13/07/2023;Latte Hazelnut;1
+13/07/2023;Samosa;1
+13/07/2023;Hazelnut Milkshake;1
+13/07/2023;Es Matcha;1
+13/07/2023;Be Regal;1
+13/07/2023;Karamel Milkshake;1
+14/07/2023;Kopi Sejuta Umat;4
+14/07/2023;Es Kopi Klepon;2
+14/07/2023;Es Taro;2
+14/07/2023;Es Chocolate;1
+14/07/2023;Latte Karamel;1
+14/07/2023;Kopi Pandan;1
+14/07/2023;Es Teh Persik;1
+14/07/2023;Es Klepon;1
+14/07/2023;Nasi Temen Ayam;1
+14/07/2023;Cireng;1
+14/07/2023;Cappuccino;1
+18/07/2023;Kopi Sejuta Umat;2
+18/07/2023;Es Thaitea;1
+18/07/2023;Latte Karamel;1
+18/07/2023;Nasi Temen Ayam;1
+18/07/2023;Sirloin Steak Barbeque Sauce;1
+18/07/2023;Es Teh Leci;1
+19/07/2023;Kopi Sejuta Umat;6
+19/07/2023;Air Mineral 330ml;3
+19/07/2023;Es Klepon;2
+19/07/2023;Karamel Milkshake;2
+19/07/2023;Es Matcha;2
+19/07/2023;Be Regal;2
+19/07/2023;Latte Kurma;1
+19/07/2023;Mie Tonjok Kuah;1
+19/07/2023;Latte Hazelnut;1
+19/07/2023;Nasi Temen Ayam;1
+19/07/2023;Kopi Moka;1
+19/07/2023;Espresso;1
+19/07/2023;Cireng;1
+19/07/2023;Es Teh Leci;1
+20/07/2023;Kopi Sejuta Umat;2
+20/07/2023;Air Mineral 330ml;2
+20/07/2023;Es Taro;1
+20/07/2023;Vietnam Drip;1
+20/07/2023;Nasi Temen Ayam;1
+20/07/2023;Nasi Temen Sapi;1
+20/07/2023;Es Kopi Klepon;1
+21/07/2023;Kopi Sejuta Umat;3
+21/07/2023;Pisang Aroma;1
+21/07/2023;Es Teh Biasa Aja;1
+21/07/2023;Comot Asik;1
+21/07/2023;Cireng;1
+21/07/2023;Es Matcha;1
+21/07/2023;Be Regal;1
+22/07/2023;Kopi Sejuta Umat;3
+22/07/2023;Nasi Temen Sapi;2
+22/07/2023;Pisang Aroma;2
+22/07/2023;Es Matcha;1
+22/07/2023;Es Kopi Klepon;1
+22/07/2023;Americano;1
+22/07/2023;Es Teh Lemon;1
+22/07/2023;Es Teh Persik;1
+22/07/2023;Es Chocolate;1
+22/07/2023;Latte Banana;1
+22/07/2023;Lychee yakult;1
+22/07/2023;Le Minerale 600ml;1
+23/07/2023;Air Mineral 330ml;7
+23/07/2023;Kopi Sejuta Umat;6
+23/07/2023;Sirloin Steak Barbeque Sauce;3
+23/07/2023;Nasi Temen Sapi;1
+23/07/2023;Kopi Moka;1
+23/07/2023;Le Minerale 600ml;1
+23/07/2023;Latte;1
+23/07/2023;Cireng;1
+23/07/2023;Pisang Aroma;1
+23/07/2023;Es Teh Lemon;1
+23/07/2023;Es Teh Persik;1
+23/07/2023;French Fries;1
+24/07/2023;Es Matcha;2
+24/07/2023;Nasi Temen Ayam;2
+24/07/2023;Kopi Sejuta Umat;1
+24/07/2023;Es Chocolate;1
+24/07/2023;Lychee yakult;1
+24/07/2023;Comot Asik;1
+24/07/2023;Latte Karamel;1
+24/07/2023;Es Klepon;1
+24/07/2023;Latte;1
+24/07/2023;Cappuccino;1
+25/07/2023;Kopi Sejuta Umat;9
+25/07/2023;Latte;2
+25/07/2023;Nasi Temen Sapi;2
+25/07/2023;Kopi Moka;1
+25/07/2023;Americano;1
+25/07/2023;Es Kopi Klepon;1
+25/07/2023;Es Taro;1
+25/07/2023;Kopi Pandan;1
+25/07/2023;Beef Burger;1
+25/07/2023;Nasi Temen Ayam;1
+26/07/2023;Kopi Sejuta Umat;7
+26/07/2023;Es Kopi Klepon;2
+26/07/2023;Es Teh Biasa Aja;2
+26/07/2023;Es Teh Persik;2
+26/07/2023;Nasi Temen Sapi;2
+26/07/2023;Air Mineral 330ml;2
+26/07/2023;Es Matcha;1
+26/07/2023;Pisang Aroma;1
+26/07/2023;Es Teh Lemon;1
+26/07/2023;Latte Banana;1
+26/07/2023;Sirloin Steak Barbeque Sauce;1
+26/07/2023;Beef Burger;1
+26/07/2023;French Fries;1
+27/07/2023;Kopi Sejuta Umat;7
+27/07/2023;Kopi Rakyat;3
+27/07/2023;Beef Burger;2
+27/07/2023;Es Matcha;1
+27/07/2023;Lychee yakult;1
+27/07/2023;Es Chocolate;1
+27/07/2023;Es Teh Lemon;1
+27/07/2023;Es Milk Tea;1
+27/07/2023;Sirloin Steak Barbeque Sauce;1
+27/07/2023;Cappuccino;1
+27/07/2023;Vietnam Drip;1
+28/07/2023;Kopi Sejuta Umat;5
+28/07/2023;Es Teh Leci;1
+28/07/2023;Es Teh Persik;1
+28/07/2023;Americano;1
+28/07/2023;Nasi Temen Ayam;1
+28/07/2023;Es Milk Tea;1
+28/07/2023;Latte Banana;1
+28/07/2023;Nasi Temen Sapi;1
+28/07/2023;Pisang Aroma;1
+28/07/2023;Cireng;1
+28/07/2023;Es Teh Biasa Aja;1
+29/07/2023;Kopi Sejuta Umat;7
+29/07/2023;Es Klepon;1
+29/07/2023;Sirloin Steak Barbeque Sauce;1
+29/07/2023;Es Teh Biasa Aja;1
+29/07/2023;Latte Karamel;1
+29/07/2023;Es Matcha;1
+29/07/2023;Cireng;1
+29/07/2023;Le Minerale 600ml;1
+29/07/2023;Americano;1
+29/07/2023;French Fries;1
+29/07/2023;Pisang Aroma;1
+30/07/2023;Kopi Sejuta Umat;3
+30/07/2023;Latte;2
+30/07/2023;V60;1
+30/07/2023;Le Minerale 600ml;1
+30/07/2023;Comot Asik;1
+30/07/2023;Lychee yakult;1
+30/07/2023;Es Teh Biasa Aja;1
+30/07/2023;Es Klepon;1
+30/07/2023;Air Mineral 330ml;1
+31/07/2023;Kopi Sejuta Umat;3
+31/07/2023;Latte;2
+31/07/2023;Cappuccino;1
+31/07/2023;Es Teh Persik;1
+31/07/2023;Latte Hazelnut;1
+31/07/2023;Americano;1
+31/07/2023;Latte Karamel;1
+31/07/2023;Nasi Temen Ayam;1
+31/07/2023;Es Teh Biasa Aja;1
+31/07/2023;Es Klepon;1
+01/08/2023;Kopi Sejuta Umat;6
+01/08/2023;Latte;4
+01/08/2023;Es Teh Biasa Aja;3
+01/08/2023;Mie Tonjok Ramen;2
+01/08/2023;Latte Hazelnut;1
+01/08/2023;Pisang Aroma;1
+01/08/2023;Cireng;1
+01/08/2023;Cappuccino;1
+01/08/2023;Es Teh Persik;1
+01/08/2023;Nasi Temen Sapi;1
+02/08/2023;Kopi Sejuta Umat;12
+02/08/2023;Es Teh Leci;4
+02/08/2023;Es Teh Lemon;2
+02/08/2023;Es Teh Biasa Aja;2
+02/08/2023;Mie Tonjok Ramen;2
+02/08/2023;Pisang Aroma;1
+02/08/2023;Cireng;1
+02/08/2023;French Fries;1
+02/08/2023;Hazelnut Milkshake;1
+02/08/2023;Latte;1
+02/08/2023;Latte Banana;1
+02/08/2023;Es Milk Tea;1
+02/08/2023;Nasi Temen Sapi;1
+02/08/2023;Es Klepon;1
+02/08/2023;Comot Asik;1
+02/08/2023;Mie Tonjok Goreng;1
+02/08/2023;Air Mineral 330ml;1
+03/08/2023;Kopi Sejuta Umat;5
+03/08/2023;Latte;2
+03/08/2023;Nasi Temen Sapi;1
+03/08/2023;Sirloin Steak Barbeque Sauce;1
+03/08/2023;French Fries;1
+03/08/2023;Comot Asik;1
+03/08/2023;Air Mineral 330ml;1
+03/08/2023;Mie Tonjok Ramen;1
+04/08/2023;Kopi Sejuta Umat;4
+04/08/2023;Latte;2
+04/08/2023;Lychee yakult;1
+04/08/2023;French Fries;1
+04/08/2023;Kopi Pandan;1
+05/08/2023;Kopi Sejuta Umat;6
+05/08/2023;Cireng;5
+05/08/2023;Air Mineral 330ml;5
+05/08/2023;Hazelnut Milkshake;2
+05/08/2023;Lychee yakult;2
+05/08/2023;Pisang Aroma;1
+05/08/2023;Cappuccino;1
+05/08/2023;Es Matcha;1
+05/08/2023;Es Kopi Klepon;1
+05/08/2023;Nasi Temen Sapi;1
+05/08/2023;Latte Kurma;1
+05/08/2023;Beef Burger with Fries;1
+05/08/2023;Es Chocolate;1
+05/08/2023;Kopi Pandan;1
+06/08/2023;Kopi Sejuta Umat;4
+06/08/2023;Latte;3
+06/08/2023;Beef Burger with Fries;1
+06/08/2023;Es Teh Biasa Aja;1
+06/08/2023;Samosa;1
+06/08/2023;Es Matcha;1
+06/08/2023;Nasi Temen Sapi;1
+07/08/2023;Kopi Sejuta Umat;5
+07/08/2023;Latte;3
+07/08/2023;Es Milk Tea;2
+07/08/2023;Es Thaitea;2
+07/08/2023;Sirloin Steak Barbeque Sauce;1
+07/08/2023;Air Mineral 330ml;1
+07/08/2023;Es Teh Biasa Aja;1
+07/08/2023;Latte Hazelnut;1
+07/08/2023;Hazelnut Milkshake;1
+07/08/2023;Es Klepon;1
+07/08/2023;Es milktea;1
+08/08/2023;Kopi Sejuta Umat;5
+08/08/2023;Es Matcha;4
+08/08/2023;Latte Karamel;1
+08/08/2023;Latte Banana;1
+08/08/2023;Cireng;1
+08/08/2023;Karamel Milkshake;1
+08/08/2023;French Fries;1
+09/08/2023;Kopi Sejuta Umat;8
+09/08/2023;Nasi Temen Ayam;1
+09/08/2023;Nasi Temen Sapi;1
+09/08/2023;Beef Burger with Fries;1
+09/08/2023;Es Teh Biasa Aja;1
+09/08/2023;Be Regal;1
+09/08/2023;Latte Banana;1
+10/08/2023;Kopi Sejuta Umat;8
+10/08/2023;Air Mineral 330ml;2
+10/08/2023;Es Klepon;2
+10/08/2023;Latte Hazelnut;1
+10/08/2023;Cireng;1
+10/08/2023;Pisang Aroma;1
+11/08/2023;Kopi Sejuta Umat;3
+11/08/2023;Es Teh Biasa Aja;1
+11/08/2023;Nasi Temen Sapi;1
+11/08/2023;Es Taro;1
+11/08/2023;Milkshake vanilla;1
+11/08/2023;Pisang Aroma;1
+11/08/2023;Latte Karamel;1
+11/08/2023;Es Kopi Klepon;1
+11/08/2023;Es Milk Tea;1
+11/08/2023;French Fries;1
+12/08/2023;Kopi Sejuta Umat;4
+12/08/2023;French Fries;2
+12/08/2023;Es Redvelvet;2
+12/08/2023;Kopi Hitam;2
+12/08/2023;Cappuccino;2
+12/08/2023;Pisang Aroma;2
+12/08/2023;Es Kopi Klepon;1
+12/08/2023;Kopi Rakyat;1
+12/08/2023;Latte Hazelnut;1
+12/08/2023;Hazelnut Milkshake;1
+12/08/2023;Samosa;1
+12/08/2023;Be Regal;1
+12/08/2023;Air Mineral 330ml;1
+12/08/2023;Es Teh Biasa Aja;1
+12/08/2023;Cireng;1
+13/08/2023;Kopi Sejuta Umat;10
+13/08/2023;Air Mineral 330ml;5
+13/08/2023;Es Teh Lemon;3
+13/08/2023;Latte;2
+13/08/2023;Sirloin Steak Barbeque Sauce;2
+13/08/2023;Nasi Temen Ayam;1
+13/08/2023;Hazelnut Milkshake;1
+13/08/2023;Es Teh Leci;1
+14/08/2023;Kopi Sejuta Umat;5
+14/08/2023;Lemon Juice;1
+14/08/2023;Americano;1
+15/08/2023;Kopi Sejuta Umat;6
+15/08/2023;Nasi Temen Sapi;1
+15/08/2023;Es Chocolate;1
+15/08/2023;Le Minerale 600ml;1
+16/08/2023;Kopi Sejuta Umat;3
+16/08/2023;Beef Burger with Fries;2
+16/08/2023;Latte Hazelnut;2
+16/08/2023;Lemon Juice;1
+16/08/2023;Lychee yakult;1
+16/08/2023;Es Kopi Klepon;1
+16/08/2023;Es Klepon;1
+16/08/2023;Es Taro;1
+16/08/2023;Nasi Temen Sapi;1
+16/08/2023;Nasi Temen Ayam;1
+16/08/2023;Mie Tonjok Ramen;1
+16/08/2023;Es Chocolate;1
+17/08/2023;Kopi Sejuta Umat;8
+17/08/2023;Es Teh Biasa Aja;3
+17/08/2023;Es Thaitea;2
+17/08/2023;Es Kopi Klepon;2
+17/08/2023;Es Matcha;1
+17/08/2023;Mie Tonjok Ramen;1
+17/08/2023;French Fries;1
+18/08/2023;Kopi Sejuta Umat;2
+18/08/2023;Cappuccino;1
+18/08/2023;Lychee yakult;1
+18/08/2023;Latte;1
+18/08/2023;Hazelnut Milkshake;1
+18/08/2023;Kopi Anggurin;1
+18/08/2023;Kopi Rakyat;1
+18/08/2023;Pisang Aroma;1
+19/08/2023;Kopi Sejuta Umat;4
+19/08/2023;Es Klepon;1
+19/08/2023;French Fries;1
+19/08/2023;Nasi Temen Sapi;1
+20/08/2023;Kopi Sejuta Umat;7
+20/08/2023;French Fries;2
+20/08/2023;Es Teh Biasa Aja;2
+20/08/2023;Latte Hazelnut;2
+20/08/2023;Es Redvelvet;1
+20/08/2023;Es Thaitea;1
+20/08/2023;Es Chocolate;1
+20/08/2023;Cireng;1
+20/08/2023;Latte;1
+20/08/2023;Kopi Moka;1
+20/08/2023;Karamel Milkshake;1
+20/08/2023;Nasi Temen Ayam;1
+22/08/2023;Lychee yakult;2
+22/08/2023;Kopi Sejuta Umat;2
+22/08/2023;Nasi Temen Ayam;2
+22/08/2023;French Fries;2
+22/08/2023;Es Teh Persik;2
+22/08/2023;Es Thaitea;1
+22/08/2023;Mie Tonjok Goreng;1
+22/08/2023;Air Mineral 330ml;1
+22/08/2023;Latte;1
+22/08/2023;Es Chocolate;1
+23/08/2023;French Fries;3
+23/08/2023;Kopi Sejuta Umat;1
+23/08/2023;Hazelnut Milkshake;1
+23/08/2023;Nasi Temen Sapi;1
+23/08/2023;Mie Tonjok Ramen;1
+23/08/2023;Es Teh Biasa Aja;1
+23/08/2023;Latte;1
+23/08/2023;Es Taro;1
+24/08/2023;Kopi Sejuta Umat;2
+24/08/2023;Latte;2
+24/08/2023;Nasi Temen Sapi;2
+24/08/2023;Es Teh Leci;1
+24/08/2023;Lychee yakult;1
+24/08/2023;Es Milk Tea;1
+24/08/2023;Cappuccino;1
+24/08/2023;Be Regal;1
+24/08/2023;Hazelnut Milkshake;1
+24/08/2023;Mie Tonjok Ramen;1
+24/08/2023;Es Taro;1
+24/08/2023;Es Redvelvet;1
+24/08/2023;Latte Hazelnut;1
+25/08/2023;Mie Tonjok Ramen;6
+25/08/2023;Kopi Sejuta Umat;6
+25/08/2023;Mie Tonjok Goreng;5
+25/08/2023;Nasi Temen Ayam;3
+25/08/2023;Be Regal;3
+25/08/2023;Es Klepon;3
+25/08/2023;Es Teh Biasa Aja;3
+25/08/2023;Le Minerale 600ml;3
+25/08/2023;Es Taro;2
+25/08/2023;Lychee yakult;2
+25/08/2023;Es Teh Persik;1
+25/08/2023;Es Chocolate;1
+25/08/2023;Air Mineral 330ml;1
+25/08/2023;Es Matcha;1
+25/08/2023;French Fries;1
+25/08/2023;Es Kopi Klepon;1
+25/08/2023;Nasi Temen Sapi;1
+25/08/2023;Es Redvelvet;1
+25/08/2023;Hazelnut Milkshake;1
+26/08/2023;Le Minerale 600ml;6
+26/08/2023;Kopi Sejuta Umat;4
+26/08/2023;Mie Tonjok Ramen;4
+26/08/2023;French Fries;3
+26/08/2023;Americano;2
+26/08/2023;Hazelnut Milkshake;2
+26/08/2023;Es Taro;2
+26/08/2023;Es Thaitea;1
+26/08/2023;Beef Burger with Fries;1
+26/08/2023;Be Regal;1
+26/08/2023;Latte;1
+01/09/2023;Kopi Sejuta Umat;8
+01/09/2023;Kopi Pandan;2
+01/09/2023;Es Klepon;1
+01/09/2023;Latte Hazelnut;1
+01/09/2023;Es Redvelvet;1
+01/09/2023;Lychee yakult;1
+01/09/2023;Es Matcha;1
+01/09/2023;Es Teh Lemon;1
+01/09/2023;Beef Burger;1
+01/09/2023;Beef Burger with Fries;1
+01/09/2023;Hazelnut Milkshake;1
+02/09/2023;Kopi Sejuta Umat;9
+02/09/2023;Beef Burger with Fries;4
+02/09/2023;Nasi Temen Sapi;2
+02/09/2023;Es Matcha;1
+02/09/2023;Pisang Aroma;1
+02/09/2023;Americano;1
+02/09/2023;Es Thaitea;1
+02/09/2023;Es Milk Tea;1
+02/09/2023;Hazelnut Milkshake;1
+03/09/2023;Kopi Sejuta Umat;7
+03/09/2023;Es Teh Biasa Aja;5
+03/09/2023;Mie Tonjok Ramen;4
+03/09/2023;Hazelnut Milkshake;3
+03/09/2023;Pisang Aroma;3
+03/09/2023;Es Milk Tea;2
+03/09/2023;Es Chocolate;2
+03/09/2023;Lychee yakult;2
+03/09/2023;Latte;2
+03/09/2023;Es Teh Lemon;2
+03/09/2023;Nasi Temen Sapi;2
+03/09/2023;Es Kopi Klepon;1
+03/09/2023;Cappuccino;1
+03/09/2023;Beef Burger with Fries;1
+03/09/2023;Sirloin Steak Barbeque Sauce;1
+03/09/2023;Es Klepon;1
+03/09/2023;Es Teh Persik;1
+03/09/2023;Kopi Rakyat;1
+03/09/2023;Es Teh Leci;1
+03/09/2023;Nasi Temen Ayam;1
+03/09/2023;Mie Tonjok Goreng;1
+03/09/2023;Americano;1
+03/09/2023;Le Minerale 600ml;1
+03/09/2023;Be Regal;1
+04/09/2023;Kopi Sejuta Umat;1
+05/09/2023;Kopi Sejuta Umat;3
+05/09/2023;pempek (isi 3 pcs);2
+05/09/2023;Nasi Temen Ayam;1
+05/09/2023;Es Teh Persik;1
+05/09/2023;Comot Asik;1
+05/09/2023;Lychee yakult;1
+06/09/2023;Kopi Sejuta Umat;10
+06/09/2023;Es Chocolate;3
+06/09/2023;Es Klepon;2
+06/09/2023;Hazelnut Milkshake;1
+06/09/2023;French Fries;1
+06/09/2023;Mie Tonjok Ramen;1
+06/09/2023;Es Teh Biasa Aja;1
+06/09/2023;Nasi Temen Sapi;1
+06/09/2023;Air Mineral 330ml;1
+07/09/2023;Espresso;3
+07/09/2023;Es Thaitea;2
+07/09/2023;Kopi Sejuta Umat;2
+07/09/2023;Nasi Temen Ayam;1
+08/09/2023;Kopi Sejuta Umat;3
+08/09/2023;Beef Burger with Fries;2
+08/09/2023;pempek (isi 3 pcs);1
+08/09/2023;Nasi Temen Sapi;1
+08/09/2023;Cireng;1
+08/09/2023;Es Taro;1
+08/09/2023;Latte Hazelnut;1
+08/09/2023;Comot Asik;1
+08/09/2023;Nasi Temen Ayam;1
+08/09/2023;Es Chocolate;1
+09/09/2023;Kopi Sejuta Umat;5
+09/09/2023;French Fries;3
+09/09/2023;Es Kopi Klepon;2
+09/09/2023;Nasi Temen Sapi;1
+09/09/2023;Be Regal;1
+09/09/2023;Sirloin Steak Barbeque Sauce;1
+09/09/2023;Es Chocolate;1
+09/09/2023;Le Minerale 600ml;1
+09/09/2023;Kopi Pandan;1
+09/09/2023;Es Teh Lemon;1
+09/09/2023;Lychee yakult;1
+09/09/2023;Pisang Aroma;1
+09/09/2023;Cireng;1
+09/09/2023;Es Klepon;1
+09/09/2023;Es Matcha;1
+09/09/2023;Kopi Anggurin;1
+09/09/2023;Kopi Moka;1
+09/09/2023;Latte;1
+10/09/2023;Kopi Sejuta Umat;3
+10/09/2023;pempek (isi 3 pcs);2
+10/09/2023;Beef Burger with Fries;1
+10/09/2023;Latte Hazelnut;1
+10/09/2023;siomay (isi 3);1
+10/09/2023;Es Thaitea;1
+10/09/2023;nasi goreng kampoeng;1
+10/09/2023;Es Teh Biasa Aja;1
+10/09/2023;Lychee yakult;1
+10/09/2023;Pisang Aroma;1
+10/09/2023;Cireng;1
+10/09/2023;Hazelnut Milkshake;1
+11/09/2023;bakso sapi + bihun / kwetiau;2
+11/09/2023;Latte Hazelnut;1
+11/09/2023;Kopi Sejuta Umat;1
+11/09/2023;Kopi Pandan;1
+11/09/2023;Be Regal;1
+11/09/2023;Es Klepon;1
+11/09/2023;Es Thaitea;1
+11/09/2023;Pisang Aroma;1
+12/09/2023;Kopi Sejuta Umat;2
+12/09/2023;Es The Persik;1
+12/09/2023;Es milktea;1
+12/09/2023;Es Redvelvet;1
+12/09/2023;Es Taro;1
+12/09/2023;Latte;1
+13/09/2023;Kopi Sejuta Umat;8
+13/09/2023;bakso sapi + bihun / kwetiau;3
+13/09/2023;Air Mineral 330ml;3
+13/09/2023;Latte Hazelnut;2
+13/09/2023;Beef Burger;2
+13/09/2023;Kopi Pandan;1
+13/09/2023;Es Klepon;1
+13/09/2023;Milkshake vanilla;1
+13/09/2023;Pisang Aroma;1
+13/09/2023;French Fries;1
+13/09/2023;Mie Tonjok Ramen;1
+13/09/2023;Es Teh Biasa Aja;1
+13/09/2023;Es Milk Tea;1
+13/09/2023;siomay (isi 3);1
+14/09/2023;Kopi Sejuta Umat;2
+14/09/2023;Latte Banana;1
+14/09/2023;Beef Burger with Fries;1
+14/09/2023;Es Teh Leci;1
+14/09/2023;Latte;1
+14/09/2023;Cappuccino;1
+14/09/2023;Latte Hazelnut;1
+15/09/2023;Kopi Sejuta Umat;3
+15/09/2023;Kopi Pandan;2
+15/09/2023;Nasi Temen Sapi;1
+15/09/2023;Hazelnut Milkshake;1
+16/09/2023;Latte Hazelnut;6
+16/09/2023;Kopi Sejuta Umat;3
+16/09/2023;Sirloin Steak Barbeque Sauce;2
+16/09/2023;Nasi Temen Ayam;1
+16/09/2023;Lychee yakult;1
+16/09/2023;Es Teh Biasa Aja;1
+16/09/2023;pempek (isi 3 pcs);1
+16/09/2023;Mie Tonjok Ramen;1
+17/09/2023;pempek (isi 3 pcs);4
+17/09/2023;Kopi Sejuta Umat;2
+17/09/2023;nasi goreng kampoeng;2
+17/09/2023;siomay (isi 3);1
+17/09/2023;Es Chocolate;1
+17/09/2023;Es Teh Lemon;1
+17/09/2023;Es Teh Biasa Aja;1
+17/09/2023;Hazelnut Milkshake;1
+17/09/2023;Mie Tonjok Ramen;1
+19/09/2023;Es Teh Biasa Aja;3
+19/09/2023;Es Matcha;1
+19/09/2023;Cireng;1
+19/09/2023;Vietnam Drip;1
+19/09/2023;Kopi Sejuta Umat;1
+19/09/2023;Es The Leci;1
+19/09/2023;nasi chicken teriyaki;1
+20/09/2023;Es Teh Lemon;2
+20/09/2023;Be Regal;1
+20/09/2023;Es Milk Tea;1
+20/09/2023;Kopi Sejuta Umat;1
+20/09/2023;Es Teh Leci;1
+21/09/2023;Kopi Sejuta Umat;7
+21/09/2023;Es Matcha;1
+21/09/2023;Nasi Temen Ayam;1
+21/09/2023;Nasi Temen Sapi;1
+21/09/2023;Kopi Rakyat;1
+21/09/2023;Be Regal;1
+22/09/2023;Kopi Sejuta Umat;14
+22/09/2023;Es Teh Lemon;11
+22/09/2023;Es Teh Leci;10
+22/09/2023;Air Mineral 330ml;2
+22/09/2023;Cappuccino;1
+22/09/2023;Americano;1
+22/09/2023;Kopi Pandan;1
+22/09/2023;Cireng;1
+22/09/2023;Le Minerale 600ml;1
+22/09/2023;Latte;1
+22/09/2023;Lychee yakult;1
+23/09/2023;Kopi Sejuta Umat;2
+23/09/2023;pempek (isi 3 pcs);2
+23/09/2023;Beef Burger;1
+23/09/2023;Cireng;1
+24/09/2023;Kopi Sejuta Umat;4
+24/09/2023;Es Teh Biasa Aja;3
+24/09/2023;Mie Tonjok Ramen;1
+24/09/2023;Latte;1
+24/09/2023;Hazelnut Milkshake;1
+26/09/2023;bakso sapi + bihun / kwetiau;3
+26/09/2023;Es Klepon;2
+26/09/2023;Lychee yakult;2
+26/09/2023;Es Teh Persik;2
+26/09/2023;Be Regal;1
+26/09/2023;Air Mineral 330ml;1
+26/09/2023;Cappuccino;1
+26/09/2023;Nasi Temen Ayam;1
+26/09/2023;French Fries;1
+26/09/2023;Es Thaitea;1
+27/09/2023;Kopi Sejuta Umat;2
+27/09/2023;Kopi Anggurin;1
+27/09/2023;Mie Tonjok Ramen;1
+27/09/2023;Es Teh Leci;1
+27/09/2023;Pisang Aroma;1
+27/09/2023;Latte;1
+27/09/2023;Cappuccino;1
+01/10/2023;Kopi Sejuta Umat;7
+01/10/2023;Kopi Rakyat;1
+01/10/2023;Es Teh Biasa Aja;1
+01/10/2023;Mie Tonjok Ramen;1
+04/10/2023;Kopi Sejuta Umat;3
+04/10/2023;Kopi Pandan;3
+04/10/2023;Lychee yakult;2
+04/10/2023;Cappuccino;1
+04/10/2023;Latte Karamel;1
+04/10/2023;Hazelnut Milkshake;1
+04/10/2023;Es Redvelvet;1
+04/10/2023;Es Taro;1
+04/10/2023;Latte Hazelnut;1
+04/10/2023;Air Mineral 330ml;1
+05/10/2023;Kopi Sejuta Umat;9
+05/10/2023;Air Mineral 330ml;3
+05/10/2023;Es Chocolate;2
+05/10/2023;Americano;1
+05/10/2023;Es Redvelvet;1
+06/10/2023;Sirloin Steak Barbeque Sauce;3
+06/10/2023;Air Mineral 330ml;3
+06/10/2023;Nasi Temen Sapi;2
+06/10/2023;Karamel Milkshake;2
+06/10/2023;Es Thaitea;2
+06/10/2023;Kopi Sejuta Umat;2
+06/10/2023;Mie Tonjok Goreng;1
+06/10/2023;Mie Tonjok Ramen;1
+06/10/2023;Pisang Aroma;1
+06/10/2023;Latte;1
+06/10/2023;Cireng;1
+06/10/2023;French Fries;1
+07/10/2023;Kopi Sejuta Umat;5
+07/10/2023;Es Teh Persik;1
+07/10/2023;Es Teh Leci;1
+07/10/2023;Lychee yakult;1
+07/10/2023;Hazelnut Milkshake;1
+08/10/2023;Kopi Sejuta Umat;5
+08/10/2023;Es Teh Biasa Aja;3
+08/10/2023;Es Klepon;2
+08/10/2023;Sirloin Steak Barbeque Sauce;2
+08/10/2023;Be Regal;1
+08/10/2023;Hazelnut Milkshake;1
+08/10/2023;Pisang Aroma;1
+08/10/2023;nasi goreng kampoeng;1
+08/10/2023;Beef Burger with Fries;1
+10/10/2023;Es Teh Lemon;2
+10/10/2023;Kopi Sejuta Umat;1
+11/10/2023;Kopi Sejuta Umat;6
+11/10/2023;Latte Banana;2
+11/10/2023;Lychee yakult;1
+11/10/2023;Comot Asik;1
+11/10/2023;Cireng;1
+11/10/2023;Es Teh Leci;1
+11/10/2023;Le Minerale 600ml;1
+11/10/2023;Mie Tonjok Ramen;1
+12/10/2023;Kopi Sejuta Umat;3
+12/10/2023;Es Teh Lemon;1
+12/10/2023;Es Teh Persik;1
+14/10/2023;Kopi Sejuta Umat;6
+14/10/2023;Pisang Aroma;2
+14/10/2023;French Fries;2
+14/10/2023;Es Kopi Klepon;2
+14/10/2023;Es Matcha;2
+14/10/2023;Es Teh Biasa Aja;1
+14/10/2023;siomay (isi 3);1
+14/10/2023;Nasi Temen Ayam;1
+14/10/2023;Be Regal;1
+14/10/2023;Le Minerale 600ml;1
+14/10/2023;Es Klepon;1
+14/10/2023;Kopi Pandan;1
+14/10/2023;Cireng;1
+14/10/2023;Es Teh Lemon;1
+14/10/2023;Kopi Moka;1
+14/10/2023;Lychee yakult;1
+14/10/2023;Latte;1
+15/10/2023;Kopi Sejuta Umat;2
+15/10/2023;Lychee yakult;2
+15/10/2023;Es Teh Lemon;2
+15/10/2023;Es Teh Biasa Aja;2
+15/10/2023;Es Matcha;1
+15/10/2023;Es Thaitea;1
+15/10/2023;Es Milk Tea;1
+15/10/2023;Es Klepon;1
+15/10/2023;Kopi Anggurin;1
+15/10/2023;Mie Tonjok Goreng;1
+15/10/2023;Orange Juice;1
+15/10/2023;Pisang Aroma;1
+15/10/2023;Hazelnut Milkshake;1
+17/10/2023;Kopi Sejuta Umat;2
+17/10/2023;Es Teh Biasa Aja;1
+17/10/2023;Mie Tonjok Goreng;1
+17/10/2023;Es Chocolate;1
+17/10/2023;Beef Burger;1
+18/10/2023;Kopi Sejuta Umat;5
+18/10/2023;Sirloin Steak Barbeque Sauce;5
+18/10/2023;Kopi Pandan;2
+18/10/2023;Latte Hazelnut;2
+18/10/2023;Latte;1
+18/10/2023;Pisang Aroma;1
+19/10/2023;Kopi Sejuta Umat;4
+19/10/2023;Es Klepon;2
+19/10/2023;Kopi Pandan;1
+19/10/2023;Beef Burger;1
+19/10/2023;Nasi Temen Ayam;1
+19/10/2023;Latte Hazelnut;1
+20/10/2023;Pisang Aroma;3
+20/10/2023;Kopi Sejuta Umat;2
+20/10/2023;Nasi Temen Ayam;2
+20/10/2023;Latte Banana;1
+21/10/2023;Kopi Sejuta Umat;6
+21/10/2023;Es Kopi Klepon;2
+21/10/2023;Cappuccino;1
+21/10/2023;Pisang Aroma;1
+21/10/2023;Es Chocolate;1
+21/10/2023;Es Matcha;1
+21/10/2023;Es Redvelvet;1
+21/10/2023;Lychee yakult;1
+21/10/2023;Latte Hazelnut;1
+21/10/2023;Es Klepon;1
+22/10/2023;Kopi Sejuta Umat;7
+22/10/2023;Americano;3
+22/10/2023;Lychee yakult;2
+22/10/2023;Be Regal;1
+22/10/2023;Es Teh Lemon;1
+22/10/2023;Es Teh Biasa Aja;1
+22/10/2023;Cireng;1
+22/10/2023;Latte Banana;1
+24/10/2023;Kopi Sejuta Umat;4
+24/10/2023;Es Klepon;2
+24/10/2023;Cireng;1
+24/10/2023;French Fries;1
+25/10/2023;Nasi Temen Ayam;45
+25/10/2023;Kopi Sejuta Umat;9
+25/10/2023;pempek (isi 3 pcs);2
+25/10/2023;French Fries;1
+25/10/2023;Es Teh Biasa Aja;1
+25/10/2023;Latte Hazelnut;1
+25/10/2023;Lychee yakult;1
+25/10/2023;Mie Tonjok Ramen;1
+25/10/2023;Es Klepon;1
+26/10/2023;Kopi Sejuta Umat;3
+26/10/2023;Latte Hazelnut;2
+26/10/2023;Es Chocolate;1
+27/10/2023;Kopi Sejuta Umat;6
+27/10/2023;Americano;2
+27/10/2023;Pisang Aroma;1
+27/10/2023;Es Klepon;1
+27/10/2023;Latte;1
+27/10/2023;Lychee yakult;1
+27/10/2023;Latte Hazelnut;1
+27/10/2023;Hazelnut Milkshake;1
+27/10/2023;Nasi Temen Sapi;1
+27/10/2023;Es Teh Leci;1
+28/10/2023;Kopi Sejuta Umat;8
+28/10/2023;Lychee yakult;3
+28/10/2023;Es Teh Biasa Aja;1
+28/10/2023;Americano;1
+28/10/2023;Cireng;1
+28/10/2023;Es Thaitea;1
+28/10/2023;Be Regal;1
+28/10/2023;Beef Burger with Fries;1
+28/10/2023;Latte Hazelnut;1
+29/10/2023;Es Teh Biasa Aja;7
+29/10/2023;Nasi Temen Sapi;6
+29/10/2023;Kopi Sejuta Umat;4
+29/10/2023;Es Klepon;2
+29/10/2023;Be Regal;1
+29/10/2023;Es Teh Leci;1
+29/10/2023;French Fries;1
+29/10/2023;Karamel Milkshake;1
+29/10/2023;Es Taro;1
+31/10/2023;Kopi Sejuta Umat;6
+31/10/2023;Air Mineral 330ml;6
+31/10/2023;Lychee yakult;2
+31/10/2023;Es Teh Leci;2
+01/11/2023;Kopi Sejuta Umat;7
+01/11/2023;Nasi Temen Ayam;2
+01/11/2023;Latte Banana;2
+01/11/2023;Cappuccino;1
+01/11/2023;Latte Hazelnut;1
+01/11/2023;pempek (isi 3 pcs);1
+01/11/2023;Mie Tonjok Ramen;1
+02/11/2023;Kopi Sejuta Umat;5
+02/11/2023;Es Klepon;2
+02/11/2023;Air Mineral 330ml;1
+02/11/2023;Cireng;1
+02/11/2023;Beef Burger with Fries;1
+02/11/2023;Pisang Aroma;1
+03/11/2023;Kopi Sejuta Umat;4
+03/11/2023;Americano;2
+03/11/2023;French Fries;2
+03/11/2023;Sirloin Steak Barbeque Sauce;2
+03/11/2023;Latte;1
+03/11/2023;Kopi Moka;1
+03/11/2023;Es Thaitea;1
+03/11/2023;Es Teh Leci;1
+03/11/2023;Pisang Aroma;1
+04/11/2023;Kopi Sejuta Umat;7
+04/11/2023;Americano;2
+04/11/2023;French Fries;2
+04/11/2023;Es Klepon;2
+04/11/2023;Latte;1
+04/11/2023;Es Taro;1
+04/11/2023;Es Matcha;1
+04/11/2023;Cappuccino;1
+05/11/2023;Kopi Sejuta Umat;2
+05/11/2023;Pisang Aroma;2
+05/11/2023;Kopi Rakyat;1
+05/11/2023;French Fries;1
+05/11/2023;Nasi Temen Sapi;1
+05/11/2023;siomay (isi 3);1
+05/11/2023;Es Chocolate;1
+07/11/2023;Vietnam Drip;1
+07/11/2023;Nasi Temen Sapi;1
+07/11/2023;Kopi Sejuta Umat;1
+07/11/2023;Es Teh Persik;1
+07/11/2023;Cappuccino;1
+08/11/2023;Kopi Sejuta Umat;6
+08/11/2023;Americano;2
+08/11/2023;Es Chocolate;1
+08/11/2023;Es Klepon;1
+08/11/2023;Cireng;1
+08/11/2023;Comot Asik;1
+08/11/2023;Pisang Aroma;1
+08/11/2023;Mie Tonjok Ramen;1
+08/11/2023;pempek (isi 3 pcs);1
+09/11/2023;Kopi Sejuta Umat;2
+09/11/2023;Es Matcha;1
+09/11/2023;French Fries;1
+09/11/2023;Kopi Pandan;1
+10/11/2023;Kopi Sejuta Umat;7
+10/11/2023;Kopi Pandan;2
+10/11/2023;Lychee yakult;2
+10/11/2023;Mie Tonjok Goreng;1
+10/11/2023;Pisang Aroma;1
+10/11/2023;Sirloin Steak Barbeque Sauce;1
+10/11/2023;Mie Tonjok Ramen;1
+10/11/2023;Kopi Moka;1
+10/11/2023;Es Chocolate;1
+11/11/2023;Kopi Sejuta Umat;5
+11/11/2023;Cireng;2
+11/11/2023;Lychee yakult;1
+11/11/2023;Latte Hazelnut;1
+11/11/2023;Be Regal;1
+11/11/2023;Comot Asik;1
+12/11/2023;Kopi Sejuta Umat;2
+12/11/2023;Beef Burger with Fries;1
+12/11/2023;Es Redvelvet;1
+14/11/2023;Kopi Sejuta Umat;4
+14/11/2023;Americano;1
+15/11/2023;Es Chocolate;5
+15/11/2023;Kopi Sejuta Umat;4
+15/11/2023;Es Klepon;2
+15/11/2023;Americano;2
+15/11/2023;Es Matcha;1
+15/11/2023;Comot Asik;1
+15/11/2023;Mie Tonjok Ramen;1
+15/11/2023;Pisang Aroma;1
+15/11/2023;French Fries;1
+15/11/2023;Latte Hazelnut;1
+15/11/2023;Mie Tonjok Goreng;1
+16/11/2023;Kopi Sejuta Umat;2
+17/11/2023;Latte Hazelnut;1
+17/11/2023;Nasi Temen Ayam;1
+17/11/2023;Kopi Sejuta Umat;1
+18/11/2023;Kopi Sejuta Umat;5
+18/11/2023;Latte Hazelnut;1
+18/11/2023;Nasi Temen Ayam;1
+18/11/2023;Mie Tonjok Ramen;1
+18/11/2023;pempek (isi 3 pcs);1
+18/11/2023;Es Chocolate;1
+18/11/2023;Es Klepon;1
+19/11/2023;Kopi Sejuta Umat;3
+19/11/2023;Sirloin Steak Barbeque Sauce;3
+19/11/2023;French Fries;2
+19/11/2023;pempek (isi 3 pcs);1
+19/11/2023;Es Klepon;1
+21/11/2023;Es Klepon;2
+21/11/2023;Es Kopi Klepon;1
+21/11/2023;Kopi Sejuta Umat;1
+21/11/2023;Pisang Aroma;1
+21/11/2023;siomay (isi 3);1
+21/11/2023;pempek (isi 3 pcs);1
+21/11/2023;Es The Leci;1
+22/11/2023;Mie Tonjok Goreng;40
+22/11/2023;Kopi Sejuta Umat;6
+22/11/2023;Be Regal;1
+22/11/2023;Es Teh Biasa Aja;1
+22/11/2023;Latte Banana;1
+23/11/2023;Kopi Sejuta Umat;4
+23/11/2023;Latte Hazelnut;1
+25/11/2023;Kopi Sejuta Umat;2
+25/11/2023;French Fries;1
+25/11/2023;Lychee yakult;1
+25/11/2023;Es Taro;1
+25/11/2023;Es Thaitea;1
+26/11/2023;Kopi Sejuta Umat;2
+26/11/2023;Latte Karamel;1
+26/11/2023;Es Matcha;1
+26/11/2023;Es Thaitea;1
+28/11/2023;Kopi Sejuta Umat;7
+28/11/2023;Americano;1
+28/11/2023;Es Klepon;1
+28/11/2023;Es Chocolate;1
+29/11/2023;Kopi Sejuta Umat;48
+29/11/2023;Kopi Rakyat;3
+29/11/2023;Pisang Aroma;2
+29/11/2023;Es Kopi Klepon;1
+29/11/2023;Latte;1
+29/11/2023;Cappuccino;1
+29/11/2023;Be Regal;1
+29/11/2023;Mie Tonjok Ramen;1
+29/11/2023;Es Klepon;1
+29/11/2023;Cireng;1
+29/11/2023;Es Teh Biasa Aja;1
+30/11/2023;Kopi Sejuta Umat;1
+30/11/2023;Nasi Temen Ayam;1
