@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Line } from 'react-chartjs-2';
 
 function App() {
   const [mergedData, setMergedData] = useState([]);
@@ -51,34 +52,65 @@ function App() {
               </table>
           </div>
         );
-      case 'analyze':
-        return (
-          <div>
-            <h1>Data Analysis</h1>
-            {/* ... (your analysis or plot code) */}
-          </div>
-        );
-      default:
-        return null;
-    }
-  };
-
-  return (
-    <div>
-      <nav style={{ marginBottom: '20px' }}>
-        <ul style={{ listStyleType: 'none', padding: '0' }}>
-          <li style={{ display: 'inline', marginRight: '10px' }}>
-            <button onClick={() => setCurrentPage('home')}>Home</button>
-          </li>
-          <li style={{ display: 'inline' }}>
-            <button onClick={() => setCurrentPage('analyze')}>Analyze</button>
-          </li>
-        </ul>
-      </nav>
-
-      {renderContent()}
-    </div>
-  );  
-}
-
-export default App;
+        case 'analyze':
+          return (
+            <div>
+              <h1>Data Analysis</h1>
+              <Line
+                data={{
+                  labels: mergedData.map((data) => new Date(data.date).toLocaleDateString()),
+                  datasets: [
+                    {
+                      label: 'Sales',
+                      data: mergedData.map((data) => data.Sales),
+                      borderColor: 'rgba(75,192,192,1)',
+                      borderWidth: 2,
+                      fill: false,
+                    },
+                    {
+                      label: 'Temperature at 10 AM',
+                      data: mergedData.map((data) => data['Temperature At 10 AM']),
+                      borderColor: 'rgba(255,99,132,1)',
+                      borderWidth: 2,
+                      fill: false,
+                    },
+                  ],
+                }}
+                options={{
+                  scales: {
+                    x: {
+                      type: 'linear',
+                      position: 'bottom',
+                    },
+                    y: {
+                      beginAtZero: true,
+                    },
+                  },
+                }}
+              />
+            </div>
+          );
+        default:
+          return null;
+      }
+    };
+  
+    return (
+      <div>
+        <nav style={{ marginBottom: '20px' }}>
+          <ul style={{ listStyleType: 'none', padding: '0' }}>
+            <li style={{ display: 'inline', marginRight: '10px' }}>
+              <button onClick={() => setCurrentPage('home')}>Home</button>
+            </li>
+            <li style={{ display: 'inline' }}>
+              <button onClick={() => setCurrentPage('analyze')}>Analyze</button>
+            </li>
+          </ul>
+        </nav>
+  
+        {renderContent()}
+      </div>
+    );  
+  }
+  
+  export default App;

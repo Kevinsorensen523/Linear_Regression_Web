@@ -96,6 +96,7 @@ def get_merged_data():
 
         return jsonify(merged_data.to_dict(orient='records'))
     
+    
     except Exception as e:
         return jsonify({"error": str(e)})    
         
